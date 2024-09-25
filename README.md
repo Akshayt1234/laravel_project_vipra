@@ -39,4 +39,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or support, please contact us at [ashok93tidke@gmail.com](mailto:ashok93tidke@gmail.com).
+For any inquiries or support, please contact us at [akshayashokan76@gmail.com](mailto:akshayashokan76@gmail.com).
